@@ -6,5 +6,4 @@ odin css project
     Display
     Padding
     Margin
-    Border
     
